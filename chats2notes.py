@@ -135,7 +135,7 @@ def transform_chats():
 def copy_to_obsidian():
     # Define source and destination directories
     source_dir = 'chats/markdown/'
-    destination_dir = '/path/to/Obsidian Vault/Open WebUI chats/'
+    destination_dir = '/Users/carlos.eguez/Documents/Obsidian Vault/Open WebUI chats/'
     
     # Ensure the destination directory exists
     if os.path.exists(destination_dir):
